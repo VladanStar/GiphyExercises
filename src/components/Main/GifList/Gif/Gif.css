@@ -1,0 +1,11 @@
+.gif__wrapper {
+    width: 30%;
+    margin: 15px;
+}
+
+.gif__wrapper > img {
+    width: 200px;
+    height: 200px;
+    border: 4px solid lightgray;
+    
+}
